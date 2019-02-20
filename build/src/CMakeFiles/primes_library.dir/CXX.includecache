@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/johnanthonyjose/Documents/Github/teach-cpp-autograding/Assignments/hw0/src/PrimeNumber.cpp
+PrimeNumber.h
+/Users/johnanthonyjose/Documents/Github/teach-cpp-autograding/Assignments/hw0/src/PrimeNumber.h
+math.h
+-
+
+/Users/johnanthonyjose/Documents/Github/teach-cpp-autograding/Assignments/hw0/src/PrimeNumber.h
+
